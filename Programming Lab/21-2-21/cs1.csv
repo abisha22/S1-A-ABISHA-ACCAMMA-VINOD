@@ -1,0 +1,385 @@
+Age,Period,Value,Status,Units,Magnitude,Series_title_1,Sex
+15-19,2019.05,56737,P,Number ,0,Actual ,Female
+15-19,2019.06,55504,P,Number ,0,Actual ,Female
+15-19,2019.07,55236,P,Number ,0,Actual ,Female
+15-19,2019.08,55068,P,Number ,0,Actual ,Female
+15-19,2019.09,55929,P,Number ,0,Actual ,Female
+15-19,2019.1,57821,P,Number ,0,Actual ,Female
+15-19,2019.11,62766,P,Number ,0,Actual ,Female
+15-19,2019.12,69308,P,Number ,0,Actual ,Female
+15-19,2020.01,63045,P,Number ,0,Actual ,Female
+15-19,2020.02,61617,P,Number ,0,Actual ,Female
+15-19,2020.03,56857,P,Number ,0,Actual ,Female
+15-19,2020.04,53005,P,Number ,0,Actual ,Female
+15-19,2020.05,53006,P,Number ,0,Actual ,Female
+15-19,2020.06,52229,P,Number ,0,Actual ,Female
+15-19,2020.07,51665,P,Number ,0,Actual ,Female
+15-19,2020.08,50236,P,Number ,0,Actual ,Female
+15-19,2019.05,54850,P,Number ,0,Actual ,Male
+15-19,2019.06,53492,P,Number ,0,Actual ,Male
+15-19,2019.07,54256,P,Number ,0,Actual ,Male
+15-19,2019.08,52586,P,Number ,0,Actual ,Male
+15-19,2019.09,53281,P,Number ,0,Actual ,Male
+15-19,2019.1,55592,P,Number ,0,Actual ,Male
+15-19,2019.11,59602,P,Number ,0,Actual ,Male
+15-19,2019.12,66469,P,Number ,0,Actual ,Male
+15-19,2020.01,61167,P,Number ,0,Actual ,Male
+15-19,2020.02,59329,P,Number ,0,Actual ,Male
+15-19,2020.03,55740,P,Number ,0,Actual ,Male
+15-19,2020.04,52403,P,Number ,0,Actual ,Male
+15-19,2020.05,52507,P,Number ,0,Actual ,Male
+15-19,2020.06,51069,P,Number ,0,Actual ,Male
+15-19,2020.07,50801,P,Number ,0,Actual ,Male
+15-19,2020.08,49063,P,Number ,0,Actual ,Male
+20-24,2019.05,106805,P,Number ,0,Actual ,Female
+20-24,2019.06,105566,P,Number ,0,Actual ,Female
+20-24,2019.07,105404,P,Number ,0,Actual ,Female
+20-24,2019.08,105331,P,Number ,0,Actual ,Female
+20-24,2019.09,106035,P,Number ,0,Actual ,Female
+20-24,2019.1,106942,P,Number ,0,Actual ,Female
+20-24,2019.11,110876,P,Number ,0,Actual ,Female
+20-24,2019.12,113469,P,Number ,0,Actual ,Female
+20-24,2020.01,107703,P,Number ,0,Actual ,Female
+20-24,2020.02,109507,P,Number ,0,Actual ,Female
+20-24,2020.03,108249,P,Number ,0,Actual ,Female
+20-24,2020.04,104245,P,Number ,0,Actual ,Female
+20-24,2020.05,104160,P,Number ,0,Actual ,Female
+20-24,2020.06,103500,P,Number ,0,Actual ,Female
+20-24,2020.07,102834,P,Number ,0,Actual ,Female
+20-24,2020.08,102810,P,Number ,0,Actual ,Female
+20-24,2019.05,119698,P,Number ,0,Actual ,Male
+20-24,2019.06,117861,P,Number ,0,Actual ,Male
+20-24,2019.07,117785,P,Number ,0,Actual ,Male
+20-24,2019.08,117292,P,Number ,0,Actual ,Male
+20-24,2019.09,117531,P,Number ,0,Actual ,Male
+20-24,2019.1,118195,P,Number ,0,Actual ,Male
+20-24,2019.11,122356,P,Number ,0,Actual ,Male
+20-24,2019.12,124540,P,Number ,0,Actual ,Male
+20-24,2020.01,119673,P,Number ,0,Actual ,Male
+20-24,2020.02,121556,P,Number ,0,Actual ,Male
+20-24,2020.03,120456,P,Number ,0,Actual ,Male
+20-24,2020.04,116765,P,Number ,0,Actual ,Male
+20-24,2020.05,117508,P,Number ,0,Actual ,Male
+20-24,2020.06,116209,P,Number ,0,Actual ,Male
+20-24,2020.07,114729,P,Number ,0,Actual ,Male
+20-24,2020.08,114611,P,Number ,0,Actual ,Male
+25-29,2019.05,126424,P,Number ,0,Actual ,Female
+25-29,2019.06,126066,P,Number ,0,Actual ,Female
+25-29,2019.07,126472,P,Number ,0,Actual ,Female
+25-29,2019.08,126413,P,Number ,0,Actual ,Female
+25-29,2019.09,126938,P,Number ,0,Actual ,Female
+25-29,2019.1,127687,P,Number ,0,Actual ,Female
+25-29,2019.11,129443,P,Number ,0,Actual ,Female
+25-29,2019.12,128535,P,Number ,0,Actual ,Female
+25-29,2020.01,125655,P,Number ,0,Actual ,Female
+25-29,2020.02,126500,P,Number ,0,Actual ,Female
+25-29,2020.03,128249,P,Number ,0,Actual ,Female
+25-29,2020.04,125491,P,Number ,0,Actual ,Female
+25-29,2020.05,125893,P,Number ,0,Actual ,Female
+25-29,2020.06,125650,P,Number ,0,Actual ,Female
+25-29,2020.07,125116,P,Number ,0,Actual ,Female
+25-29,2020.08,125762,P,Number ,0,Actual ,Female
+25-29,2019.05,145180,P,Number ,0,Actual ,Male
+25-29,2019.06,143946,P,Number ,0,Actual ,Male
+25-29,2019.07,143978,P,Number ,0,Actual ,Male
+25-29,2019.08,143821,P,Number ,0,Actual ,Male
+25-29,2019.09,144126,P,Number ,0,Actual ,Male
+25-29,2019.1,144703,P,Number ,0,Actual ,Male
+25-29,2019.11,147217,P,Number ,0,Actual ,Male
+25-29,2019.12,146923,P,Number ,0,Actual ,Male
+25-29,2020.01,143815,P,Number ,0,Actual ,Male
+25-29,2020.02,144597,P,Number ,0,Actual ,Male
+25-29,2020.03,146942,P,Number ,0,Actual ,Male
+25-29,2020.04,145217,P,Number ,0,Actual ,Male
+25-29,2020.05,146245,P,Number ,0,Actual ,Male
+25-29,2020.06,145267,P,Number ,0,Actual ,Male
+25-29,2020.07,143926,P,Number ,0,Actual ,Male
+25-29,2020.08,144400,P,Number ,0,Actual ,Male
+30-34,2019.05,111783,P,Number ,0,Actual ,Female
+30-34,2019.06,113056,P,Number ,0,Actual ,Female
+30-34,2019.07,113640,P,Number ,0,Actual ,Female
+30-34,2019.08,114492,P,Number ,0,Actual ,Female
+30-34,2019.09,115407,P,Number ,0,Actual ,Female
+30-34,2019.1,116006,P,Number ,0,Actual ,Female
+30-34,2019.11,117898,P,Number ,0,Actual ,Female
+30-34,2019.12,117545,P,Number ,0,Actual ,Female
+30-34,2020.01,115119,P,Number ,0,Actual ,Female
+30-34,2020.02,116562,P,Number ,0,Actual ,Female
+30-34,2020.03,118786,P,Number ,0,Actual ,Female
+30-34,2020.04,117326,P,Number ,0,Actual ,Female
+30-34,2020.05,118346,P,Number ,0,Actual ,Female
+30-34,2020.06,118740,P,Number ,0,Actual ,Female
+30-34,2020.07,118481,P,Number ,0,Actual ,Female
+30-34,2020.08,119657,P,Number ,0,Actual ,Female
+30-34,2019.05,129457,P,Number ,0,Actual ,Male
+30-34,2019.06,129264,P,Number ,0,Actual ,Male
+30-34,2019.07,130147,P,Number ,0,Actual ,Male
+30-34,2019.08,130463,P,Number ,0,Actual ,Male
+30-34,2019.09,131146,P,Number ,0,Actual ,Male
+30-34,2019.1,131812,P,Number ,0,Actual ,Male
+30-34,2019.11,134013,P,Number ,0,Actual ,Male
+30-34,2019.12,134349,P,Number ,0,Actual ,Male
+30-34,2020.01,133343,P,Number ,0,Actual ,Male
+30-34,2020.02,134118,P,Number ,0,Actual ,Male
+30-34,2020.03,136418,P,Number ,0,Actual ,Male
+30-34,2020.04,135907,P,Number ,0,Actual ,Male
+30-34,2020.05,137431,P,Number ,0,Actual ,Male
+30-34,2020.06,137070,P,Number ,0,Actual ,Male
+30-34,2020.07,136423,P,Number ,0,Actual ,Male
+30-34,2020.08,137259,P,Number ,0,Actual ,Male
+35-39,2019.05,101152,P,Number ,0,Actual ,Female
+35-39,2019.06,102429,P,Number ,0,Actual ,Female
+35-39,2019.07,102815,P,Number ,0,Actual ,Female
+35-39,2019.08,103675,P,Number ,0,Actual ,Female
+35-39,2019.09,104678,P,Number ,0,Actual ,Female
+35-39,2019.1,104864,P,Number ,0,Actual ,Female
+35-39,2019.11,106289,P,Number ,0,Actual ,Female
+35-39,2019.12,105852,P,Number ,0,Actual ,Female
+35-39,2020.01,103345,P,Number ,0,Actual ,Female
+35-39,2020.02,105308,P,Number ,0,Actual ,Female
+35-39,2020.03,107350,P,Number ,0,Actual ,Female
+35-39,2020.04,106308,P,Number ,0,Actual ,Female
+35-39,2020.05,106898,P,Number ,0,Actual ,Female
+35-39,2020.06,107205,P,Number ,0,Actual ,Female
+35-39,2020.07,106712,P,Number ,0,Actual ,Female
+35-39,2020.08,107774,P,Number ,0,Actual ,Female
+35-39,2019.05,114195,P,Number ,0,Actual ,Male
+35-39,2019.06,114342,P,Number ,0,Actual ,Male
+35-39,2019.07,114960,P,Number ,0,Actual ,Male
+35-39,2019.08,115285,P,Number ,0,Actual ,Male
+35-39,2019.09,115771,P,Number ,0,Actual ,Male
+35-39,2019.1,116234,P,Number ,0,Actual ,Male
+35-39,2019.11,117989,P,Number ,0,Actual ,Male
+35-39,2019.12,118068,P,Number ,0,Actual ,Male
+35-39,2020.01,117409,P,Number ,0,Actual ,Male
+35-39,2020.02,117889,P,Number ,0,Actual ,Male
+35-39,2020.03,119916,P,Number ,0,Actual ,Male
+35-39,2020.04,119720,P,Number ,0,Actual ,Male
+35-39,2020.05,120888,P,Number ,0,Actual ,Male
+35-39,2020.06,120595,P,Number ,0,Actual ,Male
+35-39,2020.07,120269,P,Number ,0,Actual ,Male
+35-39,2020.08,120673,P,Number ,0,Actual ,Male
+40-44,2019.05,102430,P,Number ,0,Actual ,Female
+40-44,2019.06,103423,P,Number ,0,Actual ,Female
+40-44,2019.07,103181,P,Number ,0,Actual ,Female
+40-44,2019.08,103746,P,Number ,0,Actual ,Female
+40-44,2019.09,104276,P,Number ,0,Actual ,Female
+40-44,2019.1,104071,P,Number ,0,Actual ,Female
+40-44,2019.11,105385,P,Number ,0,Actual ,Female
+40-44,2019.12,104785,P,Number ,0,Actual ,Female
+40-44,2020.01,101874,P,Number ,0,Actual ,Female
+40-44,2020.02,103764,P,Number ,0,Actual ,Female
+40-44,2020.03,105143,P,Number ,0,Actual ,Female
+40-44,2020.04,104210,P,Number ,0,Actual ,Female
+40-44,2020.05,104822,P,Number ,0,Actual ,Female
+40-44,2020.06,105046,P,Number ,0,Actual ,Female
+40-44,2020.07,104209,P,Number ,0,Actual ,Female
+40-44,2020.08,105232,P,Number ,0,Actual ,Female
+40-44,2019.05,103311,P,Number ,0,Actual ,Male
+40-44,2019.06,103686,P,Number ,0,Actual ,Male
+40-44,2019.07,104280,P,Number ,0,Actual ,Male
+40-44,2019.08,104168,P,Number ,0,Actual ,Male
+40-44,2019.09,104460,P,Number ,0,Actual ,Male
+40-44,2019.1,104615,P,Number ,0,Actual ,Male
+40-44,2019.11,105929,P,Number ,0,Actual ,Male
+40-44,2019.12,106021,P,Number ,0,Actual ,Male
+40-44,2020.01,105182,P,Number ,0,Actual ,Male
+40-44,2020.02,105398,P,Number ,0,Actual ,Male
+40-44,2020.03,106788,P,Number ,0,Actual ,Male
+40-44,2020.04,106670,P,Number ,0,Actual ,Male
+40-44,2020.05,107632,P,Number ,0,Actual ,Male
+40-44,2020.06,107576,P,Number ,0,Actual ,Male
+40-44,2020.07,107169,P,Number ,0,Actual ,Male
+40-44,2020.08,107669,P,Number ,0,Actual ,Male
+45-49,2019.05,115738,P,Number ,0,Actual ,Female
+45-49,2019.06,116721,P,Number ,0,Actual ,Female
+45-49,2019.07,116506,P,Number ,0,Actual ,Female
+45-49,2019.08,116903,P,Number ,0,Actual ,Female
+45-49,2019.09,117303,P,Number ,0,Actual ,Female
+45-49,2019.1,117202,P,Number ,0,Actual ,Female
+45-49,2019.11,118202,P,Number ,0,Actual ,Female
+45-49,2019.12,117793,P,Number ,0,Actual ,Female
+45-49,2020.01,114876,P,Number ,0,Actual ,Female
+45-49,2020.02,116659,P,Number ,0,Actual ,Female
+45-49,2020.03,117513,P,Number ,0,Actual ,Female
+45-49,2020.04,116415,P,Number ,0,Actual ,Female
+45-49,2020.05,116773,P,Number ,0,Actual ,Female
+45-49,2020.06,116688,P,Number ,0,Actual ,Female
+45-49,2020.07,115726,P,Number ,0,Actual ,Female
+45-49,2020.08,116453,P,Number ,0,Actual ,Female
+45-49,2019.05,108064,P,Number ,0,Actual ,Male
+45-49,2019.06,108064,P,Number ,0,Actual ,Male
+45-49,2019.07,108339,P,Number ,0,Actual ,Male
+45-49,2019.08,108338,P,Number ,0,Actual ,Male
+45-49,2019.09,108642,P,Number ,0,Actual ,Male
+45-49,2019.1,108708,P,Number ,0,Actual ,Male
+45-49,2019.11,109637,P,Number ,0,Actual ,Male
+45-49,2019.12,109335,P,Number ,0,Actual ,Male
+45-49,2020.01,108722,P,Number ,0,Actual ,Male
+45-49,2020.02,108630,P,Number ,0,Actual ,Male
+45-49,2020.03,109632,P,Number ,0,Actual ,Male
+45-49,2020.04,109337,P,Number ,0,Actual ,Male
+45-49,2020.05,109935,P,Number ,0,Actual ,Male
+45-49,2020.06,109439,P,Number ,0,Actual ,Male
+45-49,2020.07,108841,P,Number ,0,Actual ,Male
+45-49,2020.08,109113,P,Number ,0,Actual ,Male
+50-54,2019.05,107972,P,Number ,0,Actual ,Female
+50-54,2019.06,108945,P,Number ,0,Actual ,Female
+50-54,2019.07,109182,P,Number ,0,Actual ,Female
+50-54,2019.08,109486,P,Number ,0,Actual ,Female
+50-54,2019.09,110023,P,Number ,0,Actual ,Female
+50-54,2019.1,110160,P,Number ,0,Actual ,Female
+50-54,2019.11,111291,P,Number ,0,Actual ,Female
+50-54,2019.12,111356,P,Number ,0,Actual ,Female
+50-54,2020.01,108852,P,Number ,0,Actual ,Female
+50-54,2020.02,110451,P,Number ,0,Actual ,Female
+50-54,2020.03,111562,P,Number ,0,Actual ,Female
+50-54,2020.04,110730,P,Number ,0,Actual ,Female
+50-54,2020.05,111498,P,Number ,0,Actual ,Female
+50-54,2020.06,111532,P,Number ,0,Actual ,Female
+50-54,2020.07,111112,P,Number ,0,Actual ,Female
+50-54,2020.08,112296,P,Number ,0,Actual ,Female
+50-54,2019.05,98578,P,Number ,0,Actual ,Male
+50-54,2019.06,98568,P,Number ,0,Actual ,Male
+50-54,2019.07,98955,P,Number ,0,Actual ,Male
+50-54,2019.08,98924,P,Number ,0,Actual ,Male
+50-54,2019.09,99175,P,Number ,0,Actual ,Male
+50-54,2019.1,99390,P,Number ,0,Actual ,Male
+50-54,2019.11,100342,P,Number ,0,Actual ,Male
+50-54,2019.12,100496,P,Number ,0,Actual ,Male
+50-54,2020.01,99816,P,Number ,0,Actual ,Male
+50-54,2020.02,99767,P,Number ,0,Actual ,Male
+50-54,2020.03,101019,P,Number ,0,Actual ,Male
+50-54,2020.04,100647,P,Number ,0,Actual ,Male
+50-54,2020.05,101405,P,Number ,0,Actual ,Male
+50-54,2020.06,101186,P,Number ,0,Actual ,Male
+50-54,2020.07,100858,P,Number ,0,Actual ,Male
+50-54,2020.08,101333,P,Number ,0,Actual ,Male
+55-59,2019.05,100339,P,Number ,0,Actual ,Female
+55-59,2019.06,101198,P,Number ,0,Actual ,Female
+55-59,2019.07,101408,P,Number ,0,Actual ,Female
+55-59,2019.08,101659,P,Number ,0,Actual ,Female
+55-59,2019.09,102068,P,Number ,0,Actual ,Female
+55-59,2019.1,102586,P,Number ,0,Actual ,Female
+55-59,2019.11,103459,P,Number ,0,Actual ,Female
+55-59,2019.12,103526,P,Number ,0,Actual ,Female
+55-59,2020.01,101401,P,Number ,0,Actual ,Female
+55-59,2020.02,102285,P,Number ,0,Actual ,Female
+55-59,2020.03,103028,P,Number ,0,Actual ,Female
+55-59,2020.04,101786,P,Number ,0,Actual ,Female
+55-59,2020.05,102236,P,Number ,0,Actual ,Female
+55-59,2020.06,102438,P,Number ,0,Actual ,Female
+55-59,2020.07,101658,P,Number ,0,Actual ,Female
+55-59,2020.08,102278,P,Number ,0,Actual ,Female
+55-59,2019.05,91366,P,Number ,0,Actual ,Male
+55-59,2019.06,91538,P,Number ,0,Actual ,Male
+55-59,2019.07,91839,P,Number ,0,Actual ,Male
+55-59,2019.08,91944,P,Number ,0,Actual ,Male
+55-59,2019.09,92447,P,Number ,0,Actual ,Male
+55-59,2019.1,92755,P,Number ,0,Actual ,Male
+55-59,2019.11,93429,P,Number ,0,Actual ,Male
+55-59,2019.12,93369,P,Number ,0,Actual ,Male
+55-59,2020.01,92963,P,Number ,0,Actual ,Male
+55-59,2020.02,92730,P,Number ,0,Actual ,Male
+55-59,2020.03,93482,P,Number ,0,Actual ,Male
+55-59,2020.04,93116,P,Number ,0,Actual ,Male
+55-59,2020.05,93603,P,Number ,0,Actual ,Male
+55-59,2020.06,93455,P,Number ,0,Actual ,Male
+55-59,2020.07,93015,P,Number ,0,Actual ,Male
+55-59,2020.08,93366,P,Number ,0,Actual ,Male
+60-64,2019.05,79980,P,Number ,0,Actual ,Female
+60-64,2019.06,73070,P,Number ,0,Actual ,Female
+60-64,2019.07,73252,P,Number ,0,Actual ,Female
+60-64,2019.08,73659,P,Number ,0,Actual ,Female
+60-64,2019.09,74187,P,Number ,0,Actual ,Female
+60-64,2019.1,74479,P,Number ,0,Actual ,Female
+60-64,2019.11,75387,P,Number ,0,Actual ,Female
+60-64,2019.12,75614,P,Number ,0,Actual ,Female
+60-64,2020.01,73975,P,Number ,0,Actual ,Female
+60-64,2020.02,75126,P,Number ,0,Actual ,Female
+60-64,2020.03,76035,P,Number ,0,Actual ,Female
+60-64,2020.04,75333,P,Number ,0,Actual ,Female
+60-64,2020.05,75771,P,Number ,0,Actual ,Female
+60-64,2020.06,76120,P,Number ,0,Actual ,Female
+60-64,2020.07,75743,P,Number ,0,Actual ,Female
+60-64,2020.08,76516,P,Number ,0,Actual ,Female
+60-64,2019.05,68163,P,Number ,0,Actual ,Male
+60-64,2019.06,68258,P,Number ,0,Actual ,Male
+60-64,2019.07,68619,P,Number ,0,Actual ,Male
+60-64,2019.08,68805,P,Number ,0,Actual ,Male
+60-64,2019.09,69464,P,Number ,0,Actual ,Male
+60-64,2019.1,69865,P,Number ,0,Actual ,Male
+60-64,2019.11,70661,P,Number ,0,Actual ,Male
+60-64,2019.12,71079,P,Number ,0,Actual ,Male
+60-64,2020.01,70604,P,Number ,0,Actual ,Male
+60-64,2020.02,70762,P,Number ,0,Actual ,Male
+60-64,2020.03,71732,P,Number ,0,Actual ,Male
+60-64,2020.04,71636,P,Number ,0,Actual ,Male
+60-64,2020.05,72284,P,Number ,0,Actual ,Male
+60-64,2020.06,72072,P,Number ,0,Actual ,Male
+60-64,2020.07,71778,P,Number ,0,Actual ,Male
+60-64,2020.08,72121,P,Number ,0,Actual ,Male
+65 +,2019.05,48640,P,Number ,0,Actual ,Female
+65 +,2019.06,49319,P,Number ,0,Actual ,Female
+65 +,2019.07,49159,P,Number ,0,Actual ,Female
+65 +,2019.08,49430,P,Number ,0,Actual ,Female
+65 +,2019.09,50584,P,Number ,0,Actual ,Female
+65 +,2019.1,50477,P,Number ,0,Actual ,Female
+65 +,2019.11,51971,P,Number ,0,Actual ,Female
+65 +,2019.12,52923,P,Number ,0,Actual ,Female
+65 +,2020.01,48253,P,Number ,0,Actual ,Female
+65 +,2020.02,50456,P,Number ,0,Actual ,Female
+65 +,2020.03,51484,P,Number ,0,Actual ,Female
+65 +,2020.04,49702,P,Number ,0,Actual ,Female
+65 +,2020.05,50171,P,Number ,0,Actual ,Female
+65 +,2020.06,50529,P,Number ,0,Actual ,Female
+65 +,2020.07,49903,P,Number ,0,Actual ,Female
+65 +,2020.08,50964,P,Number ,0,Actual ,Female
+65 +,2019.05,54015,P,Number ,0,Actual ,Male
+65 +,2019.06,53953,P,Number ,0,Actual ,Male
+65 +,2019.07,53678,P,Number ,0,Actual ,Male
+65 +,2019.08,54018,P,Number ,0,Actual ,Male
+65 +,2019.09,54978,P,Number ,0,Actual ,Male
+65 +,2019.1,55310,P,Number ,0,Actual ,Male
+65 +,2019.11,56815,P,Number ,0,Actual ,Male
+65 +,2019.12,56916,P,Number ,0,Actual ,Male
+65 +,2020.01,54029,P,Number ,0,Actual ,Male
+65 +,2020.02,55741,P,Number ,0,Actual ,Male
+65 +,2020.03,56946,P,Number ,0,Actual ,Male
+65 +,2020.04,54740,P,Number ,0,Actual ,Male
+65 +,2020.05,56029,P,Number ,0,Actual ,Male
+65 +,2020.06,55926,P,Number ,0,Actual ,Male
+65 +,2020.07,54701,P,Number ,0,Actual ,Male
+65 +,2020.08,55296,P,Number ,0,Actual ,Male
+Under 15,2019.05,2190,P,Number ,0,Actual ,Female
+Under 15,2019.06,2158,P,Number ,0,Actual ,Female
+Under 15,2019.07,2259,P,Number ,0,Actual ,Female
+Under 15,2019.08,2104,P,Number ,0,Actual ,Female
+Under 15,2019.09,2161,P,Number ,0,Actual ,Female
+Under 15,2019.1,2345,P,Number ,0,Actual ,Female
+Under 15,2019.11,2295,P,Number ,0,Actual ,Female
+Under 15,2019.12,2581,P,Number ,0,Actual ,Female
+Under 15,2020.01,2576,P,Number ,0,Actual ,Female
+Under 15,2020.02,2381,P,Number ,0,Actual ,Female
+Under 15,2020.03,2260,P,Number ,0,Actual ,Female
+Under 15,2020.04,1808,P,Number ,0,Actual ,Female
+Under 15,2020.05,1890,P,Number ,0,Actual ,Female
+Under 15,2020.06,1913,P,Number ,0,Actual ,Female
+Under 15,2020.07,2038,P,Number ,0,Actual ,Female
+Under 15,2020.08,1902,P,Number ,0,Actual ,Female
+Under 15,2019.05,2159,P,Number ,0,Actual ,Male
+Under 15,2019.06,2098,P,Number ,0,Actual ,Male
+Under 15,2019.07,2233,P,Number ,0,Actual ,Male
+Under 15,2019.08,2103,P,Number ,0,Actual ,Male
+Under 15,2019.09,2140,P,Number ,0,Actual ,Male
+Under 15,2019.1,2492,P,Number ,0,Actual ,Male
+Under 15,2019.11,2315,P,Number ,0,Actual ,Male
+Under 15,2019.12,2693,P,Number ,0,Actual ,Male
+Under 15,2020.01,2663,P,Number ,0,Actual ,Male
+Under 15,2020.02,2374,P,Number ,0,Actual ,Male
+Under 15,2020.03,2277,P,Number ,0,Actual ,Male
+Under 15,2020.04,1928,P,Number ,0,Actual ,Male
+Under 15,2020.05,1955,P,Number ,0,Actual ,Male
+Under 15,2020.06,1929,P,Number ,0,Actual ,Male
+Under 15,2020.07,2067,P,Number ,0,Actual ,Male
+Under 15,2020.08,1884,P,Number ,0,Actual ,Male
